@@ -4,7 +4,7 @@ import { HiBackward, HiForward } from "react-icons/hi2";
 
 const RightSideBar = ({ toggleSidebar, isSidebarOpen }) => {
   return (
-    <section className=" relative bg-[url('src/assets/bbg.jpg')] bg-cover w-screen h-screen">
+    <section className=" relative bg-[url('src/assets/blackBG.jpg')] bg-cover w-screen h-screen">
 
       {/* Button to toggle Sidebar */}
       <button
